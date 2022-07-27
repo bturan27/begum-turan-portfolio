@@ -16,7 +16,10 @@
 .i-left-wrapper{
     padding: 50px;
     height: 50%;
-    background-color:al ;
+    background-color:antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .i-intro {
