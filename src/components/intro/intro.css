@@ -1,0 +1,51 @@
+.i{
+    display:flex;
+    height:100vh;
+}
+
+.i-left{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i-right{
+    flex:1;
+}
+
+.i-left-wrapper{
+    padding: 50px;
+    height: 50%;
+    background-color: ;
+}
+
+.i-intro {
+    font-size: 40px;
+    font-weight: 300;
+}
+.i-name {
+    font-size: 60px;
+}
+
+.i-title{
+    height:50px;
+    overflow: hidden;
+}
+
+.i-title-wrapper {
+    height: 100%;
+    animation : move 10s ease-in-out infinite alternate;
+}
+@keyframes move {
+    100% {
+        transform: translateY(-50px);
+}
+}
+.i-title-item{
+    height:50px;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(227, 56, 187);
+    display: flex;
+    align-items: center;
+}
