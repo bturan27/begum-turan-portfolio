@@ -1,0 +1,62 @@
+.a {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .a-left {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height:100%;
+    background-color: rgb(235, 252, 243);
+  }
+  .a-card.bg {
+    position: absolute;
+    /* top: 50px; */
+    left: 20px;
+    /* background-color: #8bc34a; */
+    height: 400px;
+    width: 600px;
+    margin-bottom: 20px;
+    border-top-style: solid;
+    border-top-width: 0px;
+    margin-bottom: 10px;
+}
+  
+  .a-card {
+    width: 50%;
+    height: 70vh;
+    border-radius: 30px;
+    position: relative;
+    overflow:hidden;
+  }
+
+  .a-img {
+    width:500px;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 30px;
+    margin:20px;
+  }
+  
+  .a-right {
+    flex: 1;
+  }
+  
+.a-award-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.a-title {
+  font-weight: 400;
+}
+
+.a-sub{
+  margin: 20px 0px;
+}
+
