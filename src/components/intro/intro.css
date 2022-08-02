@@ -12,6 +12,8 @@
 .i-right{
     flex:1;
     position: relative;
+    align-items: center;
+    justify-content: center;
 }
 
 .i-left-wrapper{
@@ -63,6 +65,8 @@
     margin: 50px, 30px;
     border-radius: 100px;
     margin-top: 170px;
+    margin-left: 200px;
+    align-items: center;
 }
 .i-bg {
     /* clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
