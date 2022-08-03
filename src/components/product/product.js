@@ -2,8 +2,8 @@ import "./Product.css"
 
 const Product = () => {
     return (
-        <div>
-                card
+        <div className="p">
+        bego
         </div>
     )
 }
