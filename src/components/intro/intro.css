@@ -27,15 +27,18 @@
 .i-intro {
     font-size: 40px;
     font-weight: 300;
+    color: azure;
 }
 .i-name {
     font-size: 60px;
     margin-top:5px;
+    color: azure;
 }
 
 .i-title{
     height:30px;
     /* overflow: hidden; */
+    color: azure;
 }
 
 .i-title-wrapper {
@@ -66,7 +69,7 @@
     margin: 50px, 30px;
     border-radius: 100px;
     margin-top: 170px;
-    margin-left: 200px;
+    margin-left: 70px;
     align-items: center;
 }
 .i-bg {
@@ -83,8 +86,12 @@
     
 }
 .i-scroll {
-    width: 30px;
+    width: 20px;
     height: 30px;
     position: absolute;
     bottom: 20px;
   }
+
+.i-desc {
+    color: azure;
+}

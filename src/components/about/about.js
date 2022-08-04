@@ -16,15 +16,12 @@ const About = () => {
       </div>
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
-        <p className="a-sub">
+        {/* <p className="a-sub">
           It is a long established fact that a reader will be distracted by the
           readable content.
-        </p>
+        </p> */}
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+        I came to the US in 2014 as an exchange student and have worked 6 consecutive summers as a waitress in Montana and Wyoming. This allowed me to sponsor myself to further my education in the computer science field. Since the start of obtaining my Master's degree, I have held internships in software development in Chicago and Montana, as well as completed software development bootcamp in Silicon Valley. I am trilingual (English, German & Turkish) and constantly strive to advance these languages as well as programming.
         </p>
         <div className="a-award">
           <img src={Learning} alt="" className="a-award-img" />

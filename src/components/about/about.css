@@ -46,14 +46,17 @@
 
 .a-title {
   font-weight: 400;
+  color: azure;
 }
 
 .a-sub {
   margin: 20px 0px;
+  color: azure;
 }
 
 .a-desc{
     font-weight: 300;
+    color: azure;
 }
 
 .a-award{
