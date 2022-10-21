@@ -11,6 +11,7 @@
 .pl-title{
     font-size: 50px;
     font-weight:600;
+    color: azure;
 }
 
 .pl-desc{
@@ -21,4 +22,16 @@
     display:flex;
     flex-wrap:wrap;
     justify-content: space-between;
+}
+
+@media screen and (max-width:480px){
+    .pl{
+        padding:10px;
+    }
+    .pl-texts{
+        width: 100%;
+    }
+    .pl-desc{
+        display:none;
+    }
 }

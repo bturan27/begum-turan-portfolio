@@ -5,10 +5,9 @@ const About = () => {
   return (
     <div className="a">
       <div className="a-left">
-        <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/242756118_3279738098920506_1386223902576905305_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=BqxDXWPHPFIAX-vr1zr&_nc_ht=scontent-lax3-2.xx&oh=00_AT_FUAgC2rIh-s7B5ywhRsQjqDLQouxkc1puzkFuN1-iOA&oe=62ECD974"
+            src={Learning}
             alt=""
             className="a-img"
           />
@@ -23,7 +22,7 @@ const About = () => {
         <p className="a-desc">
         I came to the US in 2014 as an exchange student and have worked 6 consecutive summers as a waitress in Montana and Wyoming. This allowed me to sponsor myself to further my education in the computer science field. Since the start of obtaining my Master's degree, I have held internships in software development in Chicago and Montana, as well as completed software development bootcamp in Silicon Valley. I am trilingual (English, German & Turkish) and constantly strive to advance these languages as well as programming.
         </p>
-        <div className="a-award">
+        {/* <div className="a-award">
           <img src={Learning} alt="" className="a-award-img" />
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design Awards 2021</h4>
@@ -32,7 +31,7 @@ const About = () => {
               and fugit.
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

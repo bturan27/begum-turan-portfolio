@@ -9,7 +9,7 @@
 
 .p-browser{
     height: 20px;
-    background-color: rgb(230, 82, 238);
+    background-color:rgb(207,207,207);
     display: flex;
     align-items: center;
     position:sticky;
@@ -20,7 +20,7 @@
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background-color: blueviolet;
+    background-color: #0f0e0e;
     margin: 3px;
 }
 .p-img{
@@ -31,4 +31,10 @@
 .p:hover .p-img{
     transform:translateY(-50%);
 
+}
+@media screen and (max-width:480px){
+    .p{
+        width: 40%;
+        height: 20vh;
+    }
 }
