@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/begum-turan-portfolio/static/css/main.a6e66824.css",
+    "main.js": "/begum-turan-portfolio/static/js/main.29f55ced.js",
+    "static/media/aliboo.png": "/begum-turan-portfolio/static/media/aliboo.52cf5ddac335c9d72372.png",
+    "static/media/alibooo.png": "/begum-turan-portfolio/static/media/alibooo.07802081b77d9587f4dc.png",
+    "static/media/client.png": "/begum-turan-portfolio/static/media/client.fdb76294c896c722ec18.png",
+    "static/media/pikachu.png": "/begum-turan-portfolio/static/media/pikachu.d8d6647010ab0f82d0ab.png",
+    "static/media/authentication.png": "/begum-turan-portfolio/static/media/authentication.6f000e6eab268884b923.png",
+    "static/media/begum.jpeg": "/begum-turan-portfolio/static/media/begum.ee6f042c1dda380bcb9d.jpeg",
+    "static/media/instagram.png": "/begum-turan-portfolio/static/media/instagram.df5a082f253abe3f2bcd.png",
+    "static/media/wordleclone.png": "/begum-turan-portfolio/static/media/wordleclone.238dda560300c6caaef3.png",
+    "static/media/phone.png": "/begum-turan-portfolio/static/media/phone.a901b6d1f0187af8169b.png",
+    "static/media/coding_girls.jpeg": "/begum-turan-portfolio/static/media/coding_girls.5935d14f78901d370a13.jpeg",
+    "static/media/email.png": "/begum-turan-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/linkedin.png": "/begum-turan-portfolio/static/media/linkedin.d2831f01065ebd847674.png",
+    "static/media/sun.png": "/begum-turan-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "index.html": "/begum-turan-portfolio/index.html",
+    "main.a6e66824.css.map": "/begum-turan-portfolio/static/css/main.a6e66824.css.map",
+    "main.29f55ced.js.map": "/begum-turan-portfolio/static/js/main.29f55ced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6e66824.css",
+    "static/js/main.29f55ced.js"
+  ]
+}
